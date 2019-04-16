@@ -1,0 +1,11 @@
+@font-face {font-family: "futurabook";font-style: normal;src: url("/wp-content/uploads/useanyfont/160809032632FuturaBook.eot");src: local("futurabook"),url("/wp-content/uploads/useanyfont/160809032632FuturaBook.eot") format("embedded-opentype"),url("/wp-content/uploads/useanyfont/160809032632FuturaBook.woff") format("woff");}
+.futurabook {font-family: "futurabook" !important;}
+@font-face {font-family: "dubai-bold";font-style: normal;src: url("/wp-content/uploads/useanyfont/180323042527Dubai-Bold.eot");src: local("dubai-bold"),url("/wp-content/uploads/useanyfont/180323042527Dubai-Bold.eot") format("embedded-opentype"),url("/wp-content/uploads/useanyfont/180323042527Dubai-Bold.woff") format("woff");}
+.dubai-bold {font-family: "dubai-bold" !important;}
+@font-face {font-family: "dubai-light";font-style: normal;src: url("/wp-content/uploads/useanyfont/180323042549dubai-light.eot");src: local("dubai-light"),url("/wp-content/uploads/useanyfont/180323042549dubai-light.eot") format("embedded-opentype"),url("/wp-content/uploads/useanyfont/180323042549dubai-light.woff") format("woff");}
+.dubai-light {font-family: "dubai-light" !important;}
+@font-face {font-family: "dubai-medium";font-style: normal;src: url("/wp-content/uploads/useanyfont/180323042617Dubai-Medium.eot");src: local("dubai-medium"),url("/wp-content/uploads/useanyfont/180323042617Dubai-Medium.eot") format("embedded-opentype"),url("/wp-content/uploads/useanyfont/180323042617Dubai-Medium.woff") format("woff");}
+.dubai-medium {font-family: "dubai-medium" !important;}
+@font-face {font-family: "dubai-regular";font-style: normal;src: url("/wp-content/uploads/useanyfont/180323042637Dubai-Regular.eot");src: local("dubai-regular"),url("/wp-content/uploads/useanyfont/180323042637Dubai-Regular.eot") format("embedded-opentype"),url("/wp-content/uploads/useanyfont/180323042637Dubai-Regular.woff") format("woff");}
+.dubai-regular {font-family: "dubai-regular" !important;}
+body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a {font-family: "dubai-regular" !important;}

@@ -1,0 +1,24 @@
+@supports (-webkit-overflow-scrolling: touch) {.lionfaces-fallback {background-image: url("uploads/2018/03/LTO-LTOC10_BG.png");}
+	.buildings-fallback {background-image: url("uploads/2018/02/LTO-LTOC3_BG_v2.png");}
+	.roosters-fallback {background-image: url("uploads/2018/02/LTO-LTOC6_BG.png");}}
+.fl-page-nav-wrap .navbar-nav > li.current-menu-item > a {color: black !important;}
+.fl-page-nav-wrap .navbar-nav > li.current-menu-item > a:hover {color: #ff00e9 !important;}
+#confetti {height: 600px;left: 0px;position: absolute;top: 0px;width: 100%;z-index: 1000;}
+.fist-wrapper {position: relative;top: 55px;left: 22%;}
+.left-fist {position: absolute;left: -2000px;top: 0px;width: 400px;height: 400px;z-index: 1000;}
+.right-fist {position: absolute;left: 2000px;top: 0px;width: 400px;height: 400px;z-index: 1000;}
+.animate-fist-left {left: 27px;transition: 2s;transition-timing-function: cubic-bezier(.25,.25,1,.5);}
+.animate-fist-right {left: 381px;transition: 2s;transition-timing-function: cubic-bezier(.25,.25,1,.5);}
+.banner-lower-text {margin-top: 400px !important;}
+.fl-node-5a0f5972a9667 .fl-col-content {margin-left: 16%;}
+@media screen and (min-width: 1600px) {.fist-wrapper {top: 55px;left: 31%;}
+	.fl-node-5a0f5e550b4af > .fl-module-content {margin-top: 20px;}}
+@media screen and (min-width: 1030px) and (max-width: 1380px) {.fist-wrapper {top: 55px;left: 17%;}
+	.fl-node-5a0f5e550b4af > .fl-module-content {margin-top: 20px;}}
+@media screen and (min-width: 900px) and (max-width: 1030px) {top: 55px;left: 7%;}
+.fl-node-5a0f5e550b4af > .fl-module-content {margin-top: 20px;}
+@media screen and (max-width: 900px) {display: none;}
+.fa {display: none;}
+.fl-node-5a0f5e550b4af .fl-module-content {margin-top: 0px;margin-left: 8%;}
+.fl-node-5a0f5972a96a8 .fl-col-content {padding: 20px;}
+.banner-lower-text {margin-top: 0px !important;}
